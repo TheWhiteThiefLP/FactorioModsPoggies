@@ -1,0 +1,541 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "5dim_core",
+      "enabled": false
+    },
+    
+    {
+      "name": "5dim_resources",
+      "enabled": false
+    },
+    
+    {
+      "name": "248k",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-containers",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-loaders",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-chaingunner",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-flame-tumbler",
+      "enabled": true
+    },
+    
+    {
+      "name": "advanced-centrifuge",
+      "enabled": true
+    },
+    
+    {
+      "name": "AfraidOfTheDark",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "AsphaltPaving",
+      "enabled": true
+    },
+    
+    {
+      "name": "Automatic_Train_Painter",
+      "enabled": true
+    },
+    
+    {
+      "name": "Bio_Industries",
+      "enabled": true
+    },
+    
+    {
+      "name": "BlackRubberBeltsForBobs",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobequipment",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    
+    {
+      "name": "bzcarbon",
+      "enabled": true
+    },
+    
+    {
+      "name": "DeadlockBlackRubberBelts",
+      "enabled": true
+    },
+    
+    {
+      "name": "Dectorio",
+      "enabled": true
+    },
+    
+    {
+      "name": "DiscoScience",
+      "enabled": true
+    },
+    
+    {
+      "name": "early-robots",
+      "enabled": true
+    },
+    
+    {
+      "name": "Early_Game_Logistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "Enhanced_Map_Colors",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "Expensive_Fluid_Must_Flow_Recipes",
+      "enabled": true
+    },
+    
+    {
+      "name": "factoryplanner",
+      "enabled": true
+    },
+    
+    {
+      "name": "far-reach",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Flow Control",
+      "enabled": true
+    },
+    
+    {
+      "name": "FluidMustFlow",
+      "enabled": true
+    },
+    
+    {
+      "name": "FluidMustFlowSE",
+      "enabled": true
+    },
+    
+    {
+      "name": "glutenfree-aai-signal-transmission-preview",
+      "enabled": true
+    },
+    
+    {
+      "name": "glutenfree-se-rocket-launch-pad-label",
+      "enabled": true
+    },
+    
+    {
+      "name": "grappling-gun",
+      "enabled": true
+    },
+    
+    {
+      "name": "heroturrets",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "Kux-CoreLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Kux-OrbitalIonCannon",
+      "enabled": true
+    },
+    
+    {
+      "name": "liborio",
+      "enabled": true
+    },
+    
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    
+    {
+      "name": "MDbobelectronics",
+      "enabled": true
+    },
+    
+    {
+      "name": "miniloader",
+      "enabled": true
+    },
+    
+    {
+      "name": "ModuleInserterSimplified",
+      "enabled": true
+    },
+    
+    {
+      "name": "More_Ammo",
+      "enabled": true
+    },
+    
+    {
+      "name": "More_Repair_Packs",
+      "enabled": true
+    },
+    
+    {
+      "name": "nach0_library",
+      "enabled": true
+    },
+    
+    {
+      "name": "nixie-tubes",
+      "enabled": true
+    },
+    
+    {
+      "name": "no-wall-repair",
+      "enabled": true
+    },
+    
+    {
+      "name": "OD27_5dim_automation",
+      "enabled": true
+    },
+    
+    {
+      "name": "OD27_5dim_battlefield",
+      "enabled": true
+    },
+    
+    {
+      "name": "OD27_5dim_compatibility",
+      "enabled": true
+    },
+    
+    {
+      "name": "OD27_5dim_core",
+      "enabled": true
+    },
+    
+    {
+      "name": "OD27_5dim_nuclear",
+      "enabled": true
+    },
+    
+    {
+      "name": "OD27_5dim_resources",
+      "enabled": true
+    },
+    
+    {
+      "name": "Power Armor MK3",
+      "enabled": true
+    },
+    
+    {
+      "name": "qol_research",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantArsenal",
+      "enabled": true
+    },
+    
+    {
+      "name": "RampantEvolution",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "RecipeBook",
+      "enabled": true
+    },
+    
+    {
+      "name": "RitnLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "robot_attrition",
+      "enabled": true
+    },
+    
+    {
+      "name": "Robot_Battery_Research",
+      "enabled": true
+    },
+    
+    {
+      "name": "rocket-log",
+      "enabled": true
+    },
+    
+    {
+      "name": "rp_artillery_turret_1_art",
+      "enabled": true
+    },
+    
+    {
+      "name": "rp_art_util",
+      "enabled": true
+    },
+    
+    {
+      "name": "rusty-locale",
+      "enabled": true
+    },
+    
+    {
+      "name": "se-cme-combinator",
+      "enabled": true
+    },
+    
+    {
+      "name": "se-flow-control-bridge",
+      "enabled": true
+    },
+    
+    {
+      "name": "se-landfill-le",
+      "enabled": true
+    },
+    
+    {
+      "name": "se-recycling-extras",
+      "enabled": true
+    },
+    
+    {
+      "name": "se-space-trains",
+      "enabled": true
+    },
+    
+    {
+      "name": "SE248kfix",
+      "enabled": true
+    },
+    
+    {
+      "name": "SE_smooth_ship_walls",
+      "enabled": true
+    },
+    
+    {
+      "name": "shield-projector",
+      "enabled": true
+    },
+    
+    {
+      "name": "snip-light-artillery",
+      "enabled": true
+    },
+    
+    {
+      "name": "solar-productivity",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-3",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-4",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-graphics-5",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-menu-simulations",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-pipes-n-belts",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-postprocess",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-exploration-scripts",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-spidertron",
+      "enabled": true
+    },
+    
+    {
+      "name": "spaceexplorationdatachipaugmenter",
+      "enabled": true
+    },
+    
+    {
+      "name": "spidertron-dock",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "StatsGui",
+      "enabled": true
+    },
+    
+    {
+      "name": "stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "textplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "Todo-List",
+      "enabled": true
+    },
+    
+    {
+      "name": "UltimateResearchQueue",
+      "enabled": true
+    },
+    
+    {
+      "name": "Waterfill_v17",
+      "enabled": true
+    },
+    
+    {
+      "name": "WireShortcuts",
+      "enabled": true
+    }
+  ]
+}
